@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "162212740726",
+    "firebase_url": "https://mystaapp-f3845.firebaseio.com",
+    "project_id": "mystaapp-f3845",
+    "storage_bucket": "mystaapp-f3845.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162212740726:android:64be56254a463b3fa02957",
+        "android_client_info": {
+          "package_name": "inspire.tech.mysta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "162212740726-778ar05nhk1qoegc1qd3bel547c8epci.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "inspire.tech.mysta",
+            "certificate_hash": "ce33e0ccffcd61b1f4f6859e88459bd2e81a21c5"
+          }
+        },
+        {
+          "client_id": "162212740726-asq7mjdn7idnsqpqosjrr0imf5t5fml0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAn3Xa845k7Zr2j-8rmZ7i3sB34mN-zu68"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "162212740726-asq7mjdn7idnsqpqosjrr0imf5t5fml0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
